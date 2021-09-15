@@ -1,0 +1,2 @@
+Example = "LMAO";
+print(Example)
