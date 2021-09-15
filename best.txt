@@ -1,0 +1,1 @@
+So there you can see prints in different languages and you can see for print is best python, julia, swift or JavaScript. But dont choose launguage by the print! Print isn not important. If you want to make discord bot use JavaScript or Python but if you have experience with Java use Java. Thats all from me thanks for checking this repository.
