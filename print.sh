@@ -1,1 +1,1 @@
-echo Discord is cool
+echo Cats are best
