@@ -1,1 +1,1 @@
-print("Swift is for IOS applications")
+print("Cats are best")
