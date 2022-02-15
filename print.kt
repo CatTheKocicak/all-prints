@@ -1,5 +1,5 @@
-  val name: String ="my friend" 
-  var greeting: String = "Hello"
+  val name: String ="Cats are best" 
+  var greeting: String = "meow"
 
 
 fun main () {
