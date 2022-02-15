@@ -1,1 +1,1 @@
-console.log("check linkify.cz/Dontxd")
+console.log("Cats are best")
