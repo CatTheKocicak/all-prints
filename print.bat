@@ -1,1 +1,1 @@
-Echo Cats are life best
+Echo Cats are best
