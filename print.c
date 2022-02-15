@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Cats are life best\n");
+  printf("Cats are best\n");
   return 0;
 }
