@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Sad :(\n");
+  printf("Cats are life best\n");
   return 0;
 }
