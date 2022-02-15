@@ -1,5 +1,5 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Want cheap vps? Dm me on discord: MiSTR Thomas#1234");
+    System.out.println("Cats are best");
   }
 }
