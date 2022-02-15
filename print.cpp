@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Be happy not like me :(\n";
+  std::cout << "Cats are life best\n";
 }
